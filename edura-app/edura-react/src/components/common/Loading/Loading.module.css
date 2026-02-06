@@ -1,0 +1,18 @@
+/* Loading component styles */
+
+.loading {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.spinner {
+  /* TODO: spinner animation */
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+}
+
+.label {
+}
+

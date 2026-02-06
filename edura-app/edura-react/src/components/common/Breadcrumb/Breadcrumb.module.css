@@ -1,0 +1,25 @@
+/* Breadcrumb component styles */
+
+.breadcrumb {
+  /* TODO: breadcrumb spacing */
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.item {
+}
+
+.link {
+  /* TODO: link styles */
+}
+
+.current {
+  /* TODO: current page styles */
+}
+

@@ -1,0 +1,17 @@
+/* Pagination component styles */
+
+.pagination {
+  /* TODO: align pagination controls */
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.button {
+  /* TODO: style pagination buttons */
+}
+
+.meta {
+  /* TODO: style page meta */
+}
+

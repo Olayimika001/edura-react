@@ -1,0 +1,16 @@
+/* SearchBar component styles */
+
+.form {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.input {
+  /* TODO: input styles */
+  flex: 1;
+}
+
+.button {
+  /* TODO: button styles */
+}
+

@@ -1,0 +1,17 @@
+/* SocialLinks component styles */
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.item {
+}
+
+.link {
+  /* TODO: link styles */
+}
+

@@ -1,0 +1,26 @@
+/* Modal component styles */
+
+.backdrop {
+  /* TODO: overlay background and centering */
+}
+
+.modal {
+  /* TODO: modal panel styles */
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.title {
+}
+
+.close {
+  /* TODO: close button styles */
+}
+
+.body {
+}
+

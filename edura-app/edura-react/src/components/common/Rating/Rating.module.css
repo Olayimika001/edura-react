@@ -1,0 +1,16 @@
+/* Rating component styles */
+
+.rating {
+  display: inline-flex;
+  gap: 0.125rem;
+}
+
+.filled {
+  /* TODO: filled star color */
+}
+
+.empty {
+  /* TODO: empty star color */
+  opacity: 0.4;
+}
+
